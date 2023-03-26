@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/4d/56/97/4d56977c6ff9df0bb890a8598d181776.gif)
 <h1 align="center">Hi 👋, I'm Ali Hasnain</h1>
-<h3 align="center">A professional logo designer and video Editor. A Python Programmer.</h3>
+<h3 align="center">D A T A__S C I E N T I S T.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliarain87&label=Profile%20views&color=0e75b6&style=flat" alt="aliarain87" /> </p>
