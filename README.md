@@ -33,3 +33,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliarain87&show_icons=true&locale=en" alt="aliarain87" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliarain87&" alt="aliarain87" /></p>
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/alihasnain87 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-a9b172af-9810-4694-8bf9-5ceae8550a28' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >alihasnain87</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hello, I'm Ali Hasnain, a professional data analyst, data scientist, and computer vision specialist with a passion for helping businesses grow by harnessing the power of data.
+
+With over 4 years of experience in the industry, I have worked on a wide range of data-related projects, from business and economic data analysis to social media data analysis, and everything in between. My expertise includes machine learning, deep learning, computer vision, object detection, recognition, and tracking, as well as data preprocessing, visualization, and analysis.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-a9b172af-9810-4694-8bf9-5ceae8550a28' src='https://widgets.fiverr.com/api/v1/seller/alihasnain87?widget_id=a9b172af-9810-4694-8bf9-5ceae8550a28' data-config='{"category_name":"Data"}' async='true' defer='true'></script>
+
