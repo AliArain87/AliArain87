@@ -27,9 +27,9 @@
  <a href="https://fb.com/alibaba.arain75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alibaba.arain75" height="30" width="40" /></a>
  <a href="https://instagram.com/alihasnainarain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alihasnainarain" height="30" width="40" /></a>
  <a href="https://www.youtube.com/c/heart_hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heart_hacker" height="30" width="40" /></a>
- <a href="https://www.credly.com/users/ali-hasnain.dd7fa8d8/badges" target="blank"><img align="center" src="https://i.credly.com/assets/images/social-icons/credly-social.png" alt="Credly" height="30" width="40" /></a>
- <a href="https://www.researchgate.net/profile/Ali-Hasnain-11" target="blank"><img align="center" src="https://i.researchgate.net/assets/images/social-icons/researchgate-social.png" alt="ResearchGate" height="30" width="40" /></a>
- <a href="https://www.fiverr.com/alihasnain87?public_mode=true" target="blank"><img align="center" src="https://www.fiverr.com/assets/img/social-icons/fiverr.svg" alt="Fiverr" height="30" width="40" /></a>
+ <a href="https://www.credly.com/users/ali-hasnain.dd7fa8d8/badges" target="blank"><img align="center" src="https://www.svgrepo.com/show/331358/credly.svg" alt="Credly" height="30" width="40" /></a>
+ <a href="https://www.researchgate.net/profile/Ali-Hasnain-11" target="blank"><img align="center" src="https://t2.gstatic.com/images?q=tbn:ANd9GcRIfeA2VQPtc3hEhhNBRr9Lm5CRzvzPUJulYO2PtZK26aNekZqs" alt="ResearchGate" height="30" width="40" /></a>
+ <a href="https://www.fiverr.com/alihasnain87?public_mode=true" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70473461/92360592-5a3bb800-f0ed-11ea-8dce-dd95b72c7825.png" alt="Fiverr" height="30" width="40" /></a>
 </p>
 
 
@@ -57,7 +57,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aliarain87&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=aliarain87&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
