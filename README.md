@@ -1,4 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/4d/56/97/4d56977c6ff9df0bb890a8598d181776.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/4d/56/97/4d56977c6ff9df0bb890a8598d181776.gif" alt="MasterHead">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ali Hasnain</h1>
 <h3 align="center">D A T A__S C I E N T I S T</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
