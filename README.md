@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ali Hasnain</h1>
-<h3 align="center">D A T A__S C I E N T I S T</h3>
+<h3 align="center">AI ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"> 
 
 
